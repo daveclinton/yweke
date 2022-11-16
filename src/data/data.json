@@ -1,0 +1,144 @@
+{
+  "Header": {
+    "title": "THE GENERATION WHO WILL CHANGE THE WORLD.",
+    "paragraph": "By 2030, Yweke wants to build the resilience of smallholder agricultural communities in six counties of remote rural Kenya by eradicating extreme poverty and establishing sustainable locally-owned agribusinesses."
+  },
+  "About": {
+    "paragraph": "YWEKE is a grass root organization that has taken the lead in empowering youths, teenage mothers, orphans, widows and the elderly by promoting gender equality and initiating various training programs to acquire various skills in various fields as well as well as advocating for social injustices. ",
+    "Why": [
+      "Improve Health Services access",
+      "Quality Education for All",
+      "Water and Sanitation",
+      "Women Empowerment"
+    ],
+    "Why2": [
+      "Youth EMpowerment",
+      "Culture and Tourism",
+      "Agriculture",
+      "Inclusive Community"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-small.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-small.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-small.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-small.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-small.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-small.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-home",
+      "name": "Villages",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-university",
+      "name": "Education Institutions",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-anchor",
+      "name": "Charity Homes",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Home for the Specials",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Marginalized Communities",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Agriculture",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\" Uplift the living standard and reduce prevalence among the community members.\"",
+      "name": "Julie Oganga"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Widows",
+      "job": ""
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Widows",
+      "job": ""
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Youth",
+      "job": ""
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Women Group",
+      "job": ""
+    }
+  ],
+  "Contact": {
+    "address": "Oyugis, Kenya",
+    "phone": "+254725932464",
+    "email": "yweke14@gmail.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Communication",
+      "text": "To partner and network with other like minded organization, individuals and state organs to create conducive environment for the vulnerable member of the society."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Voice",
+      "text": "Improve the education of the beneficiaries especially the youths and young mothers in order to enable then gain skills and knowledge of using computers."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Community",
+      "text": "To enhance the capacity of community to assess their strength, capabilities and resources."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Serve",
+      "text": "Give proper medication, food, shelter to the elderly who are neglected by their families. Improve nutrition to the single young mothers."
+    }
+  ]
+}
