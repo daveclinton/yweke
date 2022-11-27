@@ -1,3 +1,5 @@
+import logo from "../data/logo.jpeg";
+
 export const Navigation = (props) => {
   return (
     <nav id="menu" className="navbar navbar-default navbar-fixed-top">
@@ -15,9 +17,12 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
             <span className="icon-bar"></span>{" "}
           </button>
-          <a className="navbar-brand page-scroll" href="#page-top">
-            YWEKE
-          </a>{" "}
+          <img
+            src={logo}
+            className="navbar-brand page-scroll"
+            alt=""
+            style={{ height: "70px" }}
+          />
         </div>
 
         <div

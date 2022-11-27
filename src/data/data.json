@@ -92,23 +92,28 @@
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "Widows",
-      "job": ""
+      "name": " Sr Julie Oganga",
+      "job": "Founder"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Widows",
-      "job": ""
+      "name": "Sr Clare Otima",
+      "job": "Organizing Secretary"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Youth",
-      "job": ""
+      "name": "Fr. Lesso Francis",
+      "job": "Patron"
     },
     {
       "img": "img/team/04.jpg",
-      "name": "Women Group",
-      "job": ""
+      "name": "Kelvin Oware",
+      "job": "Treasurer"
+    },
+    {
+      "img": "img/team/05.jpg",
+      "name": "Francis Lesso",
+      "job": "Comms"
     }
   ],
   "Contact": {
