@@ -21,7 +21,7 @@ export const Navigation = (props) => {
             src={logo}
             className="navbar-brand page-scroll"
             alt=""
-            style={{ height: "70px" }}
+            style={{ height: "70px", w: "40px" }}
           />
         </div>
 
